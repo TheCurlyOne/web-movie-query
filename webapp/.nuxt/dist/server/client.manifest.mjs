@@ -1,0 +1,1 @@
+export { default } from "file:///E:/Users/Nathan/Documents/Web%20Development/web-movie-query/web-movie-query/webapp/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
